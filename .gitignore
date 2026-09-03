@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Chroma
+vector_db/
+
+# Generated files
+generated_reports/
+
+# SQLite database (local state)
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded data
+data/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+frontend/dist/
+
+# Testing
+.pytest_cache/
+.coverage
